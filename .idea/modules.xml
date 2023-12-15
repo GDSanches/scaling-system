@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/email-transfer-client/email-transfer-client.iml" filepath="$PROJECT_DIR$/email-transfer-client/email-transfer-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email-transfer-server/email-transfer-server.iml" filepath="$PROJECT_DIR$/email-transfer-server/email-transfer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mailmessage.iml" filepath="$PROJECT_DIR$/.idea/mailmessage.iml" />
+    </modules>
+  </component>
+</project>
